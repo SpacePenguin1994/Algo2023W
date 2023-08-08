@@ -4,7 +4,7 @@ title: Home
 nav_exclude: true
 seo:
   type: Course
-  name: Discrete Mathematics, SHNU
+  name: Algorithms, SHNU
 ---
 
 # {{ site.tagline }}
