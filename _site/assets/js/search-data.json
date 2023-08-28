@@ -7,92 +7,194 @@
   },"1": {
     "doc": "Announcements",
     "title": "Week 0 Announcement",
-    "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! If you’re thinking about enrolling but are not sure, please reach out to me at qzyang@shnu.edu.cn. ",
+    "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! . ",
     "url": "http://localhost:4000/Algo2023W/announcements/",
     "relUrl": "/announcements/"
   },"2": {
-    "doc": "To be determined.",
-    "title": "To be determined.",
-    "content": "This calendar outlines all topics of the course and has links to all lecture videos and slides. ",
-    "url": "http://localhost:4000/Algo2023W/calendar/",
-    "relUrl": "/calendar/"
-  },"3": {
     "doc": "Home",
     "title": "Algorithms FALL 2023",
     "content": "Course Website for Algorithms at SHNU in FALL 2023 . ",
     "url": "http://localhost:4000/Algo2023W/#algorithms-fall-2023",
     "relUrl": "/#algorithms-fall-2023"
-  },"4": {
+  },"3": {
     "doc": "Home",
     "title": "Week 0 Announcement",
-    "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! If you’re thinking about enrolling but are not sure, please reach out to me at qzyang@shnu.edu.cn. [Announcements](/Algo2023W/announcements/){: .btn .btn-outline .fs-3 } --> ",
+    "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! . [Announcements](/Algo2023W/announcements/){: .btn .btn-outline .fs-3 } --> ",
     "url": "http://localhost:4000/Algo2023W/",
     "relUrl": "/"
-  },"5": {
+  },"4": {
     "doc": "Home",
     "title": "About the Class",
     "content": "To be continued. See the Syllabus page for more details on course policies. ",
     "url": "http://localhost:4000/Algo2023W/#about-the-class",
     "relUrl": "/#about-the-class"
-  },"6": {
+  },"5": {
     "doc": "Home",
-    "title": "Course Information",
-    "content": "To be continued. ",
-    "url": "http://localhost:4000/Algo2023W/#course-information",
-    "relUrl": "/#course-information"
-  },"7": {
+    "title": "General Information",
+    "content": "Instructor: Qizhe Yang, qzyang(at)shnu.edu.cn . Time and Location:   9:45 a.m.- 11:15 a.m.  Every Monday in Week 1-16, 奉贤3教楼309           13:00 p.m.- 14:30 p.m. Every Thursday in Week 1-8，奉贤3教楼312 . For more details about the class, see the Schedule page. ",
+    "url": "http://localhost:4000/Algo2023W/#general-information",
+    "relUrl": "/#general-information"
+  },"6": {
     "doc": "Home",
     "title": "Announcements",
     "content": " ",
     "url": "http://localhost:4000/Algo2023W/#announcements",
     "relUrl": "/#announcements"
-  },"8": {
+  },"7": {
     "doc": "Home",
     "title": "Week 0 Announcement",
-    "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! If you’re thinking about enrolling but are not sure, please reach out to me at qzyang@shnu.edu.cn. ",
+    "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! . ",
     "url": "http://localhost:4000/Algo2023W/",
     "relUrl": "/"
-  },"9": {
+  },"8": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/Algo2023W/",
     "relUrl": "/"
-  },"10": {
+  },"9": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": "This schedule outlines all topics of the course and has links to all lecture slides, both in chinese and english. ",
     "url": "http://localhost:4000/Algo2023W/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
-  },"11": {
+  },"10": {
     "doc": "Schedule",
     "title": "Week 1",
-    "content": "Sep 11: Introduction to Algorithms [slides] ",
+    "content": "Sep 11 Introduction to Algorithms [slides-zh][slides-en] 2 [slides-zh][slides-en] HWReleased: HW1 DUE Sep 16 00:00 Sep 15 2 [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-1",
     "relUrl": "/schedule/#week-1"
+  },"11": {
+    "doc": "Schedule",
+    "title": "Week 2",
+    "content": "Sep 18 Introduction to Algorithms [slides-zh][slides-en] Sep 22 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-2",
+    "relUrl": "/schedule/#week-2"
   },"12": {
+    "doc": "Schedule",
+    "title": "Week 3",
+    "content": "Sep 25 Introduction to Algorithms [slides-zh][slides-en] Sep 29(To Be Determined) 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-3",
+    "relUrl": "/schedule/#week-3"
+  },"13": {
+    "doc": "Schedule",
+    "title": "Week 4",
+    "content": "Happy The National Day Holiday. ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-4",
+    "relUrl": "/schedule/#week-4"
+  },"14": {
+    "doc": "Schedule",
+    "title": "Week 5",
+    "content": "Oct 9 Introduction to Algorithms [slides-zh][slides-en] Oct 13 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-5",
+    "relUrl": "/schedule/#week-5"
+  },"15": {
+    "doc": "Schedule",
+    "title": "Week 6",
+    "content": "Oct 16 Introduction to Algorithms [slides-zh][slides-en] Oct 20 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-6",
+    "relUrl": "/schedule/#week-6"
+  },"16": {
+    "doc": "Schedule",
+    "title": "Week 7",
+    "content": "Oct 23 Introduction to Algorithms [slides-zh][slides-en] Oct 27 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-7",
+    "relUrl": "/schedule/#week-7"
+  },"17": {
+    "doc": "Schedule",
+    "title": "Week 8",
+    "content": "Oct 30 Introduction to Algorithms [slides-zh][slides-en] Nov 3 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-8",
+    "relUrl": "/schedule/#week-8"
+  },"18": {
+    "doc": "Schedule",
+    "title": "Week 9",
+    "content": "Nov 6 Introduction to Algorithms [slides-zh][slides-en] Nov 10 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-9",
+    "relUrl": "/schedule/#week-9"
+  },"19": {
+    "doc": "Schedule",
+    "title": "Week 10",
+    "content": "Nov 13 Introduction to Algorithms [slides-zh][slides-en] Nov 17 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-10",
+    "relUrl": "/schedule/#week-10"
+  },"20": {
+    "doc": "Schedule",
+    "title": "Week 11",
+    "content": "Nov 20 Introduction to Algorithms [slides-zh][slides-en] Nov 24 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-11",
+    "relUrl": "/schedule/#week-11"
+  },"21": {
+    "doc": "Schedule",
+    "title": "Week 12",
+    "content": "Nov 27 Introduction to Algorithms [slides-zh][slides-en] Dec 1 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-12",
+    "relUrl": "/schedule/#week-12"
+  },"22": {
+    "doc": "Schedule",
+    "title": "Week 13",
+    "content": "Dec 4 Introduction to Algorithms [slides-zh][slides-en] Dec 8 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-13",
+    "relUrl": "/schedule/#week-13"
+  },"23": {
+    "doc": "Schedule",
+    "title": "Week 14",
+    "content": "Dec 11 Introduction to Algorithms [slides-zh][slides-en] Dec 15 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-14",
+    "relUrl": "/schedule/#week-14"
+  },"24": {
+    "doc": "Schedule",
+    "title": "Week 15",
+    "content": "Dec 18 Introduction to Algorithms [slides-zh][slides-en] Dec 22 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-15",
+    "relUrl": "/schedule/#week-15"
+  },"25": {
+    "doc": "Schedule",
+    "title": "Week 16",
+    "content": "Dec 25 Introduction to Algorithms [slides-zh][slides-en] Dec 29 2 [slides-zh][slides-en] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-16",
+    "relUrl": "/schedule/#week-16"
+  },"26": {
+    "doc": "Schedule",
+    "title": "Week 17&amp;18",
+    "content": "Happy The New Year’s Day Holiday and please prepare for the exam week~ . ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-17-18",
+    "relUrl": "/schedule/#week-17-18"
+  },"27": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "http://localhost:4000/Algo2023W/schedule/",
     "relUrl": "/schedule/"
-  },"13": {
+  },"28": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "http://localhost:4000/Algo2023W/syllabus/",
     "relUrl": "/syllabus/"
-  },"14": {
+  },"29": {
     "doc": "Syllabus",
     "title": "Table of contents",
-    "content": ". | Overview | . ",
+    "content": ". | Overview | Policies . | Grades | Cheating | . | Resources | . ",
     "url": "http://localhost:4000/Algo2023W/syllabus/#table-of-contents",
     "relUrl": "/syllabus/#table-of-contents"
-  },"15": {
+  },"30": {
     "doc": "Syllabus",
     "title": "Overview",
-    "content": " ",
+    "content": "This class … . By the end of the course, students will learn: . | 1 | 2 | 3 | . ",
     "url": "http://localhost:4000/Algo2023W/syllabus/#overview",
     "relUrl": "/syllabus/#overview"
+  },"31": {
+    "doc": "Syllabus",
+    "title": "Policies",
+    "content": "Grades . Cheating . ",
+    "url": "http://localhost:4000/Algo2023W/syllabus/#policies",
+    "relUrl": "/syllabus/#policies"
+  },"32": {
+    "doc": "Syllabus",
+    "title": "Resources",
+    "content": "This course website, Algorithms, will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. ",
+    "url": "http://localhost:4000/Algo2023W/syllabus/#resources",
+    "relUrl": "/syllabus/#resources"
   }
 }

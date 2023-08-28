@@ -23,10 +23,14 @@ To be continued.
 
 See the [Syllabus page](syllabus.md) for more details on course policies.
 
-## Course Information
+## General Information
 
-To be continued.
+**Instructor:** [Qizhe Yang](https://basics.sjtu.edu.cn/~yangqizhe/), qzyang(at)shnu.edu.cn
 
+**Time and Location:** &ensp;&nbsp;9:45 a.m.- 11:15 a.m. &nbsp;Every Monday in Week 1-16, 奉贤3教楼309
+ <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;13:00 p.m.- 14:30 p.m. Every Thursday in Week 1-8，奉贤3教楼312
+
+ For more details about the class, see the [Schedule page](schedule.md).
 
 # Announcements
 
