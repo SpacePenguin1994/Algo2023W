@@ -1,0 +1,98 @@
+{"0": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": " ",
+    "url": "http://localhost:4000/Algo2023W/announcements/",
+    "relUrl": "/announcements/"
+  },"1": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! If you’re thinking about enrolling but are not sure, please reach out to me at qzyang@shnu.edu.cn. ",
+    "url": "http://localhost:4000/Algo2023W/announcements/",
+    "relUrl": "/announcements/"
+  },"2": {
+    "doc": "To be determined.",
+    "title": "To be determined.",
+    "content": "This calendar outlines all topics of the course and has links to all lecture videos and slides. ",
+    "url": "http://localhost:4000/Algo2023W/calendar/",
+    "relUrl": "/calendar/"
+  },"3": {
+    "doc": "Home",
+    "title": "Algorithms FALL 2023",
+    "content": "Course Website for Algorithms at SHNU in FALL 2023 . ",
+    "url": "http://localhost:4000/Algo2023W/#algorithms-fall-2023",
+    "relUrl": "/#algorithms-fall-2023"
+  },"4": {
+    "doc": "Home",
+    "title": "Week 0 Announcement",
+    "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! If you’re thinking about enrolling but are not sure, please reach out to me at qzyang@shnu.edu.cn. [Announcements](/Algo2023W/announcements/){: .btn .btn-outline .fs-3 } --> ",
+    "url": "http://localhost:4000/Algo2023W/",
+    "relUrl": "/"
+  },"5": {
+    "doc": "Home",
+    "title": "About the Class",
+    "content": "To be continued. See the Syllabus page for more details on course policies. ",
+    "url": "http://localhost:4000/Algo2023W/#about-the-class",
+    "relUrl": "/#about-the-class"
+  },"6": {
+    "doc": "Home",
+    "title": "Course Information",
+    "content": "To be continued. ",
+    "url": "http://localhost:4000/Algo2023W/#course-information",
+    "relUrl": "/#course-information"
+  },"7": {
+    "doc": "Home",
+    "title": "Announcements",
+    "content": " ",
+    "url": "http://localhost:4000/Algo2023W/#announcements",
+    "relUrl": "/#announcements"
+  },"8": {
+    "doc": "Home",
+    "title": "Week 0 Announcement",
+    "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! If you’re thinking about enrolling but are not sure, please reach out to me at qzyang@shnu.edu.cn. ",
+    "url": "http://localhost:4000/Algo2023W/",
+    "relUrl": "/"
+  },"9": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/Algo2023W/",
+    "relUrl": "/"
+  },"10": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": "This schedule outlines all topics of the course and has links to all lecture slides, both in chinese and english. ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#weekly-schedule",
+    "relUrl": "/schedule/#weekly-schedule"
+  },"11": {
+    "doc": "Schedule",
+    "title": "Week 1",
+    "content": "Sep 11: Introduction to Algorithms [slides] ",
+    "url": "http://localhost:4000/Algo2023W/schedule/#week-1",
+    "relUrl": "/schedule/#week-1"
+  },"12": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/Algo2023W/schedule/",
+    "relUrl": "/schedule/"
+  },"13": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "http://localhost:4000/Algo2023W/syllabus/",
+    "relUrl": "/syllabus/"
+  },"14": {
+    "doc": "Syllabus",
+    "title": "Table of contents",
+    "content": ". | Overview | . ",
+    "url": "http://localhost:4000/Algo2023W/syllabus/#table-of-contents",
+    "relUrl": "/syllabus/#table-of-contents"
+  },"15": {
+    "doc": "Syllabus",
+    "title": "Overview",
+    "content": " ",
+    "url": "http://localhost:4000/Algo2023W/syllabus/#overview",
+    "relUrl": "/syllabus/#overview"
+  }
+}
