@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 Sep 11:
-: **Introduction to Discrete Mathematics**
+: **Introduction to Algorithms**
   :  \[[slides](./0-overview.pdf)\]
 
   
