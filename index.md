@@ -28,7 +28,7 @@ See the [Syllabus page](syllabus.md) for more details on course policies.
 **Instructor:** [Qizhe Yang](https://basics.sjtu.edu.cn/~yangqizhe/), qzyang(at)shnu.edu.cn
 
 **Time and Location:** &ensp;&nbsp;9:45 a.m.- 11:15 a.m. &nbsp;Every Monday in Week 1-16, 奉贤5教楼D214
- <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;13:00 p.m.- 14:30 p.m. Every Friday in Week 1-8，奉贤3教楼312
+ <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;13:00 p.m.- 14:30 p.m. Every Friday in Week 1-8，&emsp; 奉贤3教楼312
 
  For more details about the class, see the [Schedule page](schedule.md).
 

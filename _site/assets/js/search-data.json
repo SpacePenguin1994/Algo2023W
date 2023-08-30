@@ -31,7 +31,7 @@
   },"5": {
     "doc": "Home",
     "title": "General Information",
-    "content": "Instructor: Qizhe Yang, qzyang(at)shnu.edu.cn . Time and Location:   9:45 a.m.- 11:15 a.m.  Every Monday in Week 1-16, 奉贤3教楼309           13:00 p.m.- 14:30 p.m. Every Thursday in Week 1-8，奉贤3教楼312 . For more details about the class, see the Schedule page. ",
+    "content": "Instructor: Qizhe Yang, qzyang(at)shnu.edu.cn . Time and Location:   9:45 a.m.- 11:15 a.m.  Every Monday in Week 1-16, 奉贤5教楼D214           13:00 p.m.- 14:30 p.m. Every Friday in Week 1-8，  奉贤3教楼312 . For more details about the class, see the Schedule page. ",
     "url": "http://localhost:4000/Algo2023W/#general-information",
     "relUrl": "/#general-information"
   },"6": {
@@ -61,97 +61,97 @@
   },"10": {
     "doc": "Schedule",
     "title": "Week 1",
-    "content": "Sep 11 Introduction to Algorithms [slides-zh][slides-en] 2 [slides-zh][slides-en] HWReleased: HW1 DUE Sep 16 00:00 Sep 15 2 [slides-zh][slides-en] ",
+    "content": "Sep 11 Introduction to Algorithms [slides-zh][slides-en] HWReleased: HW1 DUE Sep 16 00:00 Sep 15 Fundamentals [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-1",
     "relUrl": "/schedule/#week-1"
   },"11": {
     "doc": "Schedule",
     "title": "Week 2",
-    "content": "Sep 18 Introduction to Algorithms [slides-zh][slides-en] Sep 22 2 [slides-zh][slides-en] ",
+    "content": "Sep 18 Recall Sort [slides-zh][slides-en] Sep 22 Divide and Conquer [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-2",
     "relUrl": "/schedule/#week-2"
   },"12": {
     "doc": "Schedule",
     "title": "Week 3",
-    "content": "Sep 25 Introduction to Algorithms [slides-zh][slides-en] Sep 29(To Be Determined) 2 [slides-zh][slides-en] ",
+    "content": "Sep 25 Heapsort [slides-zh][slides-en] Sep 29(To Be Determined) Graph Traversal(I) [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-3",
     "relUrl": "/schedule/#week-3"
   },"13": {
     "doc": "Schedule",
     "title": "Week 4",
-    "content": "Happy The National Day Holiday. ",
+    "content": "Happy The National Day Holiday! . ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-4",
     "relUrl": "/schedule/#week-4"
   },"14": {
     "doc": "Schedule",
     "title": "Week 5",
-    "content": "Oct 9 Introduction to Algorithms [slides-zh][slides-en] Oct 13 2 [slides-zh][slides-en] ",
+    "content": "Oct 9 Graph Traversal(II) Oct 13 Shortest Path(I) [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-5",
     "relUrl": "/schedule/#week-5"
   },"15": {
     "doc": "Schedule",
     "title": "Week 6",
-    "content": "Oct 16 Introduction to Algorithms [slides-zh][slides-en] Oct 20 2 [slides-zh][slides-en] ",
+    "content": "Oct 16 Shortest Path(II) Oct 20 Greedy Algorithms [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-6",
     "relUrl": "/schedule/#week-6"
   },"16": {
     "doc": "Schedule",
     "title": "Week 7",
-    "content": "Oct 23 Introduction to Algorithms [slides-zh][slides-en] Oct 27 2 [slides-zh][slides-en] ",
+    "content": "Oct 23 Dynamic Programming(I) [slides-zh][slides-en] Oct 27 Dynamic Programming(II) ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-7",
     "relUrl": "/schedule/#week-7"
   },"17": {
     "doc": "Schedule",
     "title": "Week 8",
-    "content": "Oct 30 Introduction to Algorithms [slides-zh][slides-en] Nov 3 2 [slides-zh][slides-en] ",
+    "content": "Oct 30 Network flow(I) [slides-zh][slides-en] Nov 3 Network flow(II) ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-8",
     "relUrl": "/schedule/#week-8"
   },"18": {
     "doc": "Schedule",
     "title": "Week 9",
-    "content": "Nov 6 Introduction to Algorithms [slides-zh][slides-en] Nov 10 2 [slides-zh][slides-en] ",
+    "content": "Nov 6 P and NP(I) [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-9",
     "relUrl": "/schedule/#week-9"
   },"19": {
     "doc": "Schedule",
     "title": "Week 10",
-    "content": "Nov 13 Introduction to Algorithms [slides-zh][slides-en] Nov 17 2 [slides-zh][slides-en] ",
+    "content": "Nov 13 P and NP(II) ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-10",
     "relUrl": "/schedule/#week-10"
   },"20": {
     "doc": "Schedule",
     "title": "Week 11",
-    "content": "Nov 20 Introduction to Algorithms [slides-zh][slides-en] Nov 24 2 [slides-zh][slides-en] ",
+    "content": "Nov 20 Lower Bounds [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-11",
     "relUrl": "/schedule/#week-11"
   },"21": {
     "doc": "Schedule",
     "title": "Week 12",
-    "content": "Nov 27 Introduction to Algorithms [slides-zh][slides-en] Dec 1 2 [slides-zh][slides-en] ",
+    "content": "Nov 27 Approximation Algorithms [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-12",
     "relUrl": "/schedule/#week-12"
   },"22": {
     "doc": "Schedule",
     "title": "Week 13",
-    "content": "Dec 4 Introduction to Algorithms [slides-zh][slides-en] Dec 8 2 [slides-zh][slides-en] ",
+    "content": "Dec 4 Randomized Algorithms(I) [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-13",
     "relUrl": "/schedule/#week-13"
   },"23": {
     "doc": "Schedule",
     "title": "Week 14",
-    "content": "Dec 11 Introduction to Algorithms [slides-zh][slides-en] Dec 15 2 [slides-zh][slides-en] ",
+    "content": "Dec 11 Randomized Algorithms(II) ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-14",
     "relUrl": "/schedule/#week-14"
   },"24": {
     "doc": "Schedule",
     "title": "Week 15",
-    "content": "Dec 18 Introduction to Algorithms [slides-zh][slides-en] Dec 22 2 [slides-zh][slides-en] ",
+    "content": "Dec 18 Computational Geometry [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-15",
     "relUrl": "/schedule/#week-15"
   },"25": {
     "doc": "Schedule",
     "title": "Week 16",
-    "content": "Dec 25 Introduction to Algorithms [slides-zh][slides-en] Dec 29 2 [slides-zh][slides-en] ",
+    "content": "Dec 25 Review [slides-zh][slides-en] ",
     "url": "http://localhost:4000/Algo2023W/schedule/#week-16",
     "relUrl": "/schedule/#week-16"
   },"26": {

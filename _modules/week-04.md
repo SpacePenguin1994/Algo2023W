@@ -2,7 +2,7 @@
 title: Week 4
 ---
 
-Happy The National Day Holiday.
+Happy The National Day Holiday!
 
   
 
