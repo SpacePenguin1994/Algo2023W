@@ -47,11 +47,11 @@ To be finished.
 
 ### Grades
 
-Students' grades will be determined by the following components:
-- 1 Homework(**HW**{:.label.label-green}),
-- 2 Program Assignments(**PA**{:.label.label-green}) ,
-- 3 Final Exam(**Exam**{:.label.label-green}),
-- 4 Bonus Points(**Bonus**{:.label.label-green}).
+Students' grades**Grade**{:.label.label-green} will be determined by the following components:
+- 1 Homework**HW**{:.label.label-green},
+- 2 Program Assignments**PA**{:.label.label-green} ,
+- 3 Final Exam**Exam**{:.label.label-green},
+- 4 Bonus Points**Bonus**{:.label.label-green}.
 
 The final grade will be calculated using the following equation:
 
