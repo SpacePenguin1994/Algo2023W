@@ -29,15 +29,31 @@ By the end of the course, students will learn:
 
 ## Policies
 
+### Homework
+
+To be finished.
+
+### Program Assignments
+
+To be finished.
+
+### Final Exam
+
+To be finished.
+
+### Bonus Points
+
+To be finished.
+
 ### Grades
 
 Students' grades will be determined by the following components:
 - 1 Homework(**HW**{:.label.label-green}),
 - 2 Program Assignments(**PA**{:.label.label-green}) ,
-- 3 Final exam(**Exam**{:.label.label-green}),
-- 4 Bonus points(**Bonus**{:.label.label-green}).
+- 3 Final Exam(**Exam**{:.label.label-green}),
+- 4 Bonus Points(**Bonus**{:.label.label-green}).
 
-Each component is worth a maximum of 100 points. The final grade will be calculated using the following equation:
+The final grade will be calculated using the following equation:
 
 : **Grade**{:.label.label-green} = MIN{25%* **HW**{:.label.label-green} + 15%* **PA**{:.label.label-green}+ 60%* **Exam**{:.label.label-green} +5%* **Bonus**{:.label.label-green} ,100}
 
