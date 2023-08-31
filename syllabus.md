@@ -20,14 +20,19 @@ description: >-
 In this course, our aim is to present various algorithms for numerous 'standard' algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study.
 
 By the end of the course, students will learn:
-- 1 the application of fundamental algorithm design techniques.
-- 2 the main theoretical tools used in the analysis of algorithms
-- 3 the ability for desigining algorithms for some algorithmic problems.
-- 4 the ability for analysing given algorithms.
-- 5 an outline of the notable subfields within algorithmic research.
+-  the application of fundamental algorithm design techniques.
+-  the main theoretical tools used in the analysis of algorithms
+-  the ability for desigining algorithms for some algorithmic problems.
+-  the ability for analysing given algorithms.
+-  an outline of the notable subfields within algorithmic research.
 
 
 ## Policies
+
+### Cheating
+
+You are encouraged to collaborate with your classmates or utilize online resources for any homework, program assignments, or bonus points. Actually, you can also ask for the instructor. **However, directly copying and pasting code or answers is prohibited.** If I ask you how your code works or why your answers are correct 
+and you do not know, it will be evident that you have copied it. Don’t take the risk. 
 
 ### Homework
 
@@ -48,20 +53,15 @@ To be finished.
 ### Grades
 
 Students' grades**Grade**{:.label.label-green} will be determined by the following components:
-- 1 Homework**HW**{:.label.label-green},
-- 2 Program Assignments**PA**{:.label.label-green} ,
-- 3 Final Exam**Exam**{:.label.label-green},
-- 4 Bonus Points**Bonus**{:.label.label-green}.
+-  Homework**HW**{:.label.label-green},
+-  Program Assignments**PA**{:.label.label-green} ,
+-  Final Exam**Exam**{:.label.label-green},
+-  Bonus Points**Bonus**{:.label.label-green}.
 
 The final grade will be calculated using the following equation:
 
 : **Grade**{:.label.label-green} = MIN{25%* **HW**{:.label.label-green} + 15%* **PA**{:.label.label-green}+ 60%* **Exam**{:.label.label-green} +5%* **Bonus**{:.label.label-green} ,100}
 
-
-### Cheating
-
-You are encouraged to collaborate with your classmates or utilize online resources for any homework, program assignments, or bonus points. **However, directly copying and pasting code or answers is prohibited.** If I ask you how your code works or why your answers are correct 
-and you do not know, it will be evident that you have copied it. Don’t take the risk. 
 
 ## Resources
 
