@@ -9,7 +9,7 @@ Oct 9
 
 Oct 13
 : **Shortest Path(I)**
-  :  \[[slides-zh](../pdf/slides/0-overview.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
+  :  \[[slides-zh](../pdf/slides/0-overview-zh.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
 
 
   

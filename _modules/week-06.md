@@ -9,7 +9,7 @@ Oct 16
 
 Oct 20
 : **Greedy Algorithms**
-  :  \[[slides-zh](../pdf/slides/0-overview.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
+  :  \[[slides-zh](../pdf/slides/0-overview-zh.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
 
 
   
