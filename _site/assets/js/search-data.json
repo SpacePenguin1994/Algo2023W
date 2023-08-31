@@ -25,7 +25,7 @@
   },"4": {
     "doc": "Home",
     "title": "About the Class",
-    "content": "To be continued. See the Syllabus page for more details on course policies. ",
+    "content": "Turing Award awardee Knuth once said, “Computer Science is the study of algorithms”. Even though the speed of computers is now so fast that we might even question whether Moore’s Law still holds true, the significance of an efficient algorithm remains essential for us. Therefore, in this course, we aim to present various algorithms for numerous ‘standard’ algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. By the end of the course, students will attain proficiency in applying fundamental algorithm design techniques and will become acquainted with the key theoretical instruments utilized in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study. Enjoy the class! . See the Syllabus page for more details on course policies. ",
     "url": "http://localhost:4000/Algo2023W/#about-the-class",
     "relUrl": "/#about-the-class"
   },"5": {
@@ -181,19 +181,19 @@
   },"30": {
     "doc": "Syllabus",
     "title": "Overview",
-    "content": "This class … . By the end of the course, students will learn: . | 1 | 2 | 3 | . ",
+    "content": "In this course, our aim is to present various algorithms for numerous ‘standard’ algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study. By the end of the course, students will learn: . | 1 the application of fundamental algorithm design techniques. | 2 the main theoretical tools used in the analysis of algorithms | 3 the ability for desigining algorithms for some algorithmic problems. | 4 the ability for analysing given algorithms. | 5 an outline of the notable subfields within algorithmic research. | . ",
     "url": "http://localhost:4000/Algo2023W/syllabus/#overview",
     "relUrl": "/syllabus/#overview"
   },"31": {
     "doc": "Syllabus",
     "title": "Policies",
-    "content": "Grades . Cheating . ",
+    "content": "Grades . Students’ grades will be determined by the following components: . | 1 Homework(HW), | 2 Program Assignments(PA) , | 3 Final exam(Exam), | 4 Bonus points(Bonus). | . Each component is worth a maximum of 100 points. The final grade will be calculated using the following equation: Grade = MIN{25%* HW + 15%* PA+ 60%* Exam +5%* Bonus ,100} . Cheating . You are encouraged to collaborate with your classmates or utilize online resources for any homework, program assignments, or bonus points. However, directly copying and pasting code or answers is prohibited. If I ask you how your code works or why your answers are correct and you do not know, it will be evident that you have copied it. Don’t take the risk. ",
     "url": "http://localhost:4000/Algo2023W/syllabus/#policies",
     "relUrl": "/syllabus/#policies"
   },"32": {
     "doc": "Syllabus",
     "title": "Resources",
-    "content": "This course website, Algorithms, will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. ",
+    "content": "This course website, Algorithms, will be your one-stop resource for the syllabus, schedule and homework links. LeetCode . Leet Code is an online platform that offers a wide array of coding challenges and problems, primarily focused on helping individuals improve their programming and problem-solving skills. We will use the website to complete our program assignments. Reference . Here’re some recommended books： . | [1] M.H. Alsuwaiyel. Algorithms: design techniques and analysis. | [2] S. Dasgupta, C. H. Papadimitriou, U. V. Vazirani. Algorithms | [3] T. Cormen, C. Leiserson, R. Rivest, and C. Stein. Introduction to Algorithms | [4] R. Sedgewick, K. Wayne. Algorithms | [5] Jeff Erickson. Algorithms | [6] 王晓东。 计算机算法设计与分析 | [7] 屈婉玲，刘田，张立昂，王捍贫。算法设计与分析 | . ",
     "url": "http://localhost:4000/Algo2023W/syllabus/#resources",
     "relUrl": "/syllabus/#resources"
   }
