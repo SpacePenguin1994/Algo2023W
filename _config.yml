@@ -18,7 +18,7 @@ tagline: Algorithms FALL 2023
 description: Course Website for Algorithms at SHNU in FALL 2023
 author: Qizhe Yang
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://spacepenguin1994.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://www.algo2023w.spacepenguin.com.cn' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
@@ -55,7 +55,7 @@ defaults:
     values:
       layout: announcement
   - scope:
-      path: 'syllabus.md'
+      path: ''
       type: syllabus
     values:
       layout: syllabus

@@ -65,7 +65,7 @@ The final grade will be calculated using the following equation:
 
 ## Resources
 
-This course website, [Algorithms](../Algo2023W/index.md), will be your one-stop resource for the syllabus, schedule and homework links. 
+This course website, [Algorithms](../), will be your one-stop resource for the syllabus, schedule and homework links. 
 
 
 **LeetCode**
