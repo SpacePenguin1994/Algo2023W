@@ -36,19 +36,19 @@ and you do not know, it will be evident that you have copied it. Don’t take th
 
 ### Homework
 
-To be finished.
+TBA.
 
 ### Program Assignments
 
-To be finished.
+TBA.
 
 ### Final Exam
 
-To be finished.
+TBA.
 
 ### Bonus Points
 
-To be finished.
+TBA.
 
 ### Grades
 
