@@ -36,15 +36,22 @@ and you do not know, it will be evident that you have copied it. Don’t take th
 
 ### Homework
 
-TBA.
+The **HW**{:.label.label-red}, will be released once a week. The main content is the design of algorithms for certain problems and the corresponding algorithm analysis. Please submit the solution via the email <qzyang@shnu.edu.cn>.
+
+**Please note that late submissions will incur a 25% penalty.**
+
 
 ### Program Assignments
 
-TBA.
+The **PA**{:.label.label-blue} will also be released once a week. We will use the problem on [Leet Code](https://leetcode.cn/).   Please submit the solution via the email <qzyang@shnu.edu.cn>. Here is a sample submission [sample](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/sample.pdf).
+
+After each program assignment, the instructor will randomly select one student to present their solutions to the class.
+
+**Please note that late submissions will incur a 25% penalty.**
 
 ### Final Exam
 
-TBA.
+This course will have only one exam, the final exam. The more information will be decided later.
 
 ### Bonus Points
 
@@ -53,14 +60,14 @@ TBA.
 ### Grades
 
 Students' grades**Grade**{:.label.label-green} will be determined by the following components:
--  Homework**HW**{:.label.label-green},
--  Program Assignments**PA**{:.label.label-green} ,
+-  Homework**HW**{:.label.label-red},
+-  Program Assignments**PA**{:.label.label-blue} ,
 -  Final Exam**Exam**{:.label.label-green},
 -  Bonus Points**Bonus**{:.label.label-green}.
 
 The final grade will be calculated using the following equation:
 
-: **Grade**{:.label.label-green} = MIN{25%* **HW**{:.label.label-green} + 15%* **PA**{:.label.label-green}+ 60%* **Exam**{:.label.label-green} +5%* **Bonus**{:.label.label-green} ,100}
+: **Grade**{:.label.label-green} = MIN{25%* **HW**{:.label.label-red} + 15%* **PA**{:.label.label-blue}+ 60%* **Exam**{:.label.label-green} +5%* **Bonus**{:.label.label-green} ,100}
 
 
 ## Resources
