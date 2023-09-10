@@ -4,7 +4,7 @@ title: Week 1
 
 Sep 11
 : **Overview**
-  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/0-overvie-handout-zh.pdf)\]
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/0-overview-handout-zh.pdf)\]
 : **Fundamentals(I)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/1-introduction-handout-zh.pdf)\]
 :  **HW**{: .label .label-red }Released: [Homework #1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw1.pdf)  
