@@ -4,4 +4,4 @@ week: 1
 date: 2023-09-10
 ---
 
-Homework $1$ and Program Assignment $1$ are now available. See more information in [Schedule](../schedule).
+[Homework #1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw1.pdf) and [Program Assignment #1](https://leetcode.cn/problems/two-sum/) are now available. See more information in [Schedule](../schedule).
