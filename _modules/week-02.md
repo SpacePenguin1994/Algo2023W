@@ -8,6 +8,7 @@ Sep 18
 :  **HW**{: .label .label-red }Released: [Homework #2](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw2.pdf)  
 : **PA**{: .label .label-blue } Released: [LeetCode](https://leetcode.cn/problems/merge-intervals/) #56 合并区间.
 : **DUE**{: .label .label-yellow} Both **HW**{: .label .label-red } and  **PA**{: .label .label-blue } will be due at 11:59 p.m. on Sep 25.
+
 Sep 22
 : **Divide and Conquer**
 <!-->:  :  \[[slides-zh](../pdf/slides/0-overview-zh.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
