@@ -7,7 +7,7 @@
   },"1": {
     "doc": "Announcements",
     "title": "Week 1 Announcement",
-    "content": "Sep 10 &middot; 0 min read Homework $1$ and Program Assignment $1$ are now available. See more information in Schedule. ",
+    "content": "Sep 10 &middot; 0 min read Homework #1 and Program Assignment #1 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
   },"2": {
@@ -25,7 +25,7 @@
   },"4": {
     "doc": "Home",
     "title": "Week 1 Announcement",
-    "content": "Sep 10 &middot; 0 min read Homework $1$ and Program Assignment $1$ are now available. See more information in Schedule. [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
+    "content": "Sep 10 &middot; 0 min read Homework #1 and Program Assignment #1 are now available. See more information in Schedule. [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
   },"5": {
@@ -37,7 +37,7 @@
   },"6": {
     "doc": "Home",
     "title": "General Information",
-    "content": "Instructor: Qizhe Yang, qzyang(at)shnu.edu.cn . Time and Location:   9:45 a.m.- 11:15 a.m.  Every Monday in Week 1-16, 奉贤5教楼D214           13:00 p.m.- 14:30 p.m. Every Friday in Week 1-8，  奉贤3教楼312 . For more details about the class, see the Schedule page. ",
+    "content": "Instructor: Qizhe Yang, qzyang(at)shnu.edu.cn . Time and Location:   9:45 a.m.- 11:15 a.m.  Every Monday in Week 1-16, 奉贤3教楼309           13:00 p.m.- 14:30 p.m. Every Friday in Week 1-8，  奉贤3教楼312 . For more details about the class, see the Schedule page. ",
     "url": "http://localhost:4000/#general-information",
     "relUrl": "/#general-information"
   },"7": {
@@ -49,7 +49,7 @@
   },"8": {
     "doc": "Home",
     "title": "Week 1 Announcement",
-    "content": "Sep 10 &middot; 0 min read Homework $1$ and Program Assignment $1$ are now available. See more information in Schedule. ",
+    "content": "Sep 10 &middot; 0 min read Homework #1 and Program Assignment #1 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
   },"9": {
@@ -73,13 +73,13 @@
   },"12": {
     "doc": "Schedule",
     "title": "Week 1",
-    "content": "Sep 11 Overview [slides-zh] Fundamentals(I) [slides-zh] HWReleased: HW1 PA Released: LeetCode #1 两数之和，Here’s a submission sample. DUE Both HW and PA will be due at 11:59 p.m. on Sep 18. Sep 15 Fundamentals(II) ",
+    "content": "Sep 11 Overview [slides-zh] Fundamentals(I) [slides-zh] HWReleased: Homework #1 PA Released: LeetCode #1 两数之和，Here’s a submission sample. DUE Both HW and PA will be due at 11:59 p.m. on Sep 18. Sep 15 Fundamentals(II) ",
     "url": "http://localhost:4000/schedule/#week-1",
     "relUrl": "/schedule/#week-1"
   },"13": {
     "doc": "Schedule",
     "title": "Week 2",
-    "content": "Sep 18 Recall Sort Sep 22 Divide and Conquer ",
+    "content": "Sep 18 Induction [slides-zh] HWReleased: Homework #2 PA Released: LeetCode #56 合并区间. DUE Both HW and PA will be due at 11:59 p.m. on Sep 25. Sep 22 Divide and Conquer ",
     "url": "http://localhost:4000/schedule/#week-2",
     "relUrl": "/schedule/#week-2"
   },"14": {
