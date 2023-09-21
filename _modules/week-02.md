@@ -11,8 +11,7 @@ Sep 18
 
 Sep 22
 : **Divide and Conquer**
-<!-->:  :  \[[slides-zh](../pdf/slides/0-overview-zh.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
-<-->
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/AlgoLec3-handout-zh.pdf)\]
 
   
 
