@@ -7,214 +7,226 @@
   },"1": {
     "doc": "Announcements",
     "title": "Week 2 Announcement",
-    "content": "Sep 18 &middot; 0 min read Homework #2 and Program Assignment #2 are now available. See more information in Schedule. ",
+    "content": "Sep 18 &middot; 0 min read Hello, everyone! Please note that starting from next week, our classroom for every Monday has changed. The new classroom is:” 奉贤3教楼308 “. And I’d like to ask 王超 to share his approach to the Program Assignment 1 in class on Monday, September 25th. ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
   },"2": {
+    "doc": "Announcements",
+    "title": "Week 2 Announcement",
+    "content": "Sep 18 &middot; 0 min read Homework #2 and Program Assignment #2 are now available. See more information in Schedule. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"3": {
     "doc": "Announcements",
     "title": "Week 1 Announcement",
     "content": "Sep 10 &middot; 0 min read Homework #1 and Program Assignment #1 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"3": {
+  },"4": {
     "doc": "Announcements",
     "title": "Week 0 Announcement",
     "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! . ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"4": {
+  },"5": {
     "doc": "Home",
     "title": "Algorithms FALL 2023",
     "content": "Course Website for Algorithms at SHNU in FALL 2023 . ",
     "url": "http://localhost:4000/#algorithms-fall-2023",
     "relUrl": "/#algorithms-fall-2023"
-  },"5": {
+  },"6": {
     "doc": "Home",
     "title": "Week 2 Announcement",
-    "content": "Sep 18 &middot; 0 min read Homework #2 and Program Assignment #2 are now available. See more information in Schedule. [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
+    "content": "Sep 18 &middot; 0 min read Hello, everyone! Please note that starting from next week, our classroom for every Monday has changed. The new classroom is:” 奉贤3教楼308 “. And I’d like to ask 王超 to share his approach to the Program Assignment 1 in class on Monday, September 25th. [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"6": {
+  },"7": {
     "doc": "Home",
     "title": "About the Class",
     "content": "Turing Award awardee Knuth once said, “Computer Science is the study of algorithms”. Even though the speed of computers is now so fast that we might even question whether Moore’s Law still holds true, the significance of an efficient algorithm remains essential for us. Therefore, in this course, we aim to present various algorithms for numerous ‘standard’ algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. By the end of the course, students will attain proficiency in applying fundamental algorithm design techniques and will become acquainted with the key theoretical instruments utilized in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study. Enjoy the class! . See the Syllabus page for more details on course policies. ",
     "url": "http://localhost:4000/#about-the-class",
     "relUrl": "/#about-the-class"
-  },"7": {
+  },"8": {
     "doc": "Home",
     "title": "General Information",
-    "content": "Instructor: Qizhe Yang, qzyang(at)shnu.edu.cn . Time and Location:   9:45 a.m.- 11:15 a.m.  Every Monday in Week 1-16, 奉贤3教楼309           13:00 p.m.- 14:30 p.m. Every Friday in Week 1-8，  奉贤3教楼312 . For more details about the class, see the Schedule page. ",
+    "content": "Instructor: Qizhe Yang, qzyang(at)shnu.edu.cn . Time and Location:   9:45 a.m.- 11:15 a.m.  Every Monday in Week 1-16, 奉贤3教楼308           13:00 p.m.- 14:30 p.m. Every Friday in Week 1-8，  奉贤3教楼312 . For more details about the class, see the Schedule page. ",
     "url": "http://localhost:4000/#general-information",
     "relUrl": "/#general-information"
-  },"8": {
+  },"9": {
     "doc": "Home",
     "title": "Announcements",
     "content": " ",
     "url": "http://localhost:4000/#announcements",
     "relUrl": "/#announcements"
-  },"9": {
+  },"10": {
+    "doc": "Home",
+    "title": "Week 2 Announcement",
+    "content": "Sep 18 &middot; 0 min read Hello, everyone! Please note that starting from next week, our classroom for every Monday has changed. The new classroom is:” 奉贤3教楼308 “. And I’d like to ask 王超 to share his approach to the Program Assignment 1 in class on Monday, September 25th. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"11": {
     "doc": "Home",
     "title": "Week 2 Announcement",
     "content": "Sep 18 &middot; 0 min read Homework #2 and Program Assignment #2 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"10": {
+  },"12": {
     "doc": "Home",
     "title": "Week 1 Announcement",
     "content": "Sep 10 &middot; 0 min read Homework #1 and Program Assignment #1 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"11": {
+  },"13": {
     "doc": "Home",
     "title": "Week 0 Announcement",
     "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! . ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"12": {
+  },"14": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"13": {
+  },"15": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": "This schedule outlines all topics of the course and has links to all lecture slides, both in chinese and english. ",
     "url": "http://localhost:4000/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
-  },"14": {
+  },"16": {
     "doc": "Schedule",
     "title": "Week 1",
     "content": "Sep 11 Overview [slides-zh] Fundamentals(I) [slides-zh] HWReleased: Homework #1 PA Released: LeetCode #1 两数之和，Here’s a submission sample. DUE Both HW and PA will be due at 11:59 p.m. on Sep 18. Sep 15 Fundamentals(II) ",
     "url": "http://localhost:4000/schedule/#week-1",
     "relUrl": "/schedule/#week-1"
-  },"15": {
+  },"17": {
     "doc": "Schedule",
     "title": "Week 2",
     "content": "Sep 18 Induction [slides-zh] HWReleased: Homework #2 PA Released: LeetCode #56 合并区间. DUE Both HW and PA will be due at 11:59 p.m. on Sep 25. Sep 22 Divide and Conquer [slides-zh] ",
     "url": "http://localhost:4000/schedule/#week-2",
     "relUrl": "/schedule/#week-2"
-  },"16": {
+  },"18": {
     "doc": "Schedule",
     "title": "Week 3",
     "content": "Sep 25 Fast Fourier Transform for Polynomial Multiplication Sep 29(To Be Determined) Graph Traversal(I) ",
     "url": "http://localhost:4000/schedule/#week-3",
     "relUrl": "/schedule/#week-3"
-  },"17": {
+  },"19": {
     "doc": "Schedule",
     "title": "Week 4",
     "content": "Happy The National Day Holiday! . ",
     "url": "http://localhost:4000/schedule/#week-4",
     "relUrl": "/schedule/#week-4"
-  },"18": {
+  },"20": {
     "doc": "Schedule",
     "title": "Week 5",
     "content": "Oct 9 Graph Traversal(II) Oct 13 Shortest Path(I) ",
     "url": "http://localhost:4000/schedule/#week-5",
     "relUrl": "/schedule/#week-5"
-  },"19": {
+  },"21": {
     "doc": "Schedule",
     "title": "Week 6",
     "content": "Oct 16 Shortest Path(II) Oct 20 Greedy Algorithms ",
     "url": "http://localhost:4000/schedule/#week-6",
     "relUrl": "/schedule/#week-6"
-  },"20": {
+  },"22": {
     "doc": "Schedule",
     "title": "Week 7",
     "content": "Oct 23 Dynamic Programming(I) Oct 27 Dynamic Programming(II) ",
     "url": "http://localhost:4000/schedule/#week-7",
     "relUrl": "/schedule/#week-7"
-  },"21": {
+  },"23": {
     "doc": "Schedule",
     "title": "Week 8",
     "content": "Oct 30 Network flow(I) Nov 3 Network flow(II) ",
     "url": "http://localhost:4000/schedule/#week-8",
     "relUrl": "/schedule/#week-8"
-  },"22": {
+  },"24": {
     "doc": "Schedule",
     "title": "Week 9",
     "content": "Nov 6 P and NP(I) ",
     "url": "http://localhost:4000/schedule/#week-9",
     "relUrl": "/schedule/#week-9"
-  },"23": {
+  },"25": {
     "doc": "Schedule",
     "title": "Week 10",
     "content": "Nov 13 P and NP(II) ",
     "url": "http://localhost:4000/schedule/#week-10",
     "relUrl": "/schedule/#week-10"
-  },"24": {
+  },"26": {
     "doc": "Schedule",
     "title": "Week 11",
     "content": "Nov 20 Lower Bounds ",
     "url": "http://localhost:4000/schedule/#week-11",
     "relUrl": "/schedule/#week-11"
-  },"25": {
+  },"27": {
     "doc": "Schedule",
     "title": "Week 12",
     "content": "Nov 27 Approximation Algorithms ",
     "url": "http://localhost:4000/schedule/#week-12",
     "relUrl": "/schedule/#week-12"
-  },"26": {
+  },"28": {
     "doc": "Schedule",
     "title": "Week 13",
     "content": "Dec 4 Randomized Algorithms(I) ",
     "url": "http://localhost:4000/schedule/#week-13",
     "relUrl": "/schedule/#week-13"
-  },"27": {
+  },"29": {
     "doc": "Schedule",
     "title": "Week 14",
     "content": "Dec 11 Randomized Algorithms(II) ",
     "url": "http://localhost:4000/schedule/#week-14",
     "relUrl": "/schedule/#week-14"
-  },"28": {
+  },"30": {
     "doc": "Schedule",
     "title": "Week 15",
     "content": "Dec 18 Computational Geometry ",
     "url": "http://localhost:4000/schedule/#week-15",
     "relUrl": "/schedule/#week-15"
-  },"29": {
+  },"31": {
     "doc": "Schedule",
     "title": "Week 16",
     "content": "Dec 25 Review ",
     "url": "http://localhost:4000/schedule/#week-16",
     "relUrl": "/schedule/#week-16"
-  },"30": {
+  },"32": {
     "doc": "Schedule",
     "title": "Week 17&amp;18",
     "content": "Happy The New Year’s Day Holiday and please prepare for the exam week~ . ",
     "url": "http://localhost:4000/schedule/#week-17-18",
     "relUrl": "/schedule/#week-17-18"
-  },"31": {
+  },"33": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"32": {
+  },"34": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "http://localhost:4000/syllabus/",
     "relUrl": "/syllabus/"
-  },"33": {
+  },"35": {
     "doc": "Syllabus",
     "title": "Table of contents",
     "content": ". | Overview | Policies . | Cheating | Homework | Program Assignments | Final Exam | Bonus Points | Grades | . | Resources | . ",
     "url": "http://localhost:4000/syllabus/#table-of-contents",
     "relUrl": "/syllabus/#table-of-contents"
-  },"34": {
+  },"36": {
     "doc": "Syllabus",
     "title": "Overview",
     "content": "In this course, our aim is to present various algorithms for numerous ‘standard’ algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study. By the end of the course, students will learn: . | the application of fundamental algorithm design techniques. | the main theoretical tools used in the analysis of algorithms | the ability for desigining algorithms for some algorithmic problems. | the ability for analysing given algorithms. | an outline of the notable subfields within algorithmic research. | . ",
     "url": "http://localhost:4000/syllabus/#overview",
     "relUrl": "/syllabus/#overview"
-  },"35": {
+  },"37": {
     "doc": "Syllabus",
     "title": "Policies",
     "content": "Cheating . You are encouraged to collaborate with your classmates or utilize online resources for any homework, program assignments, or bonus points. Actually, you can also ask for the instructor. However, directly copying and pasting code or answers is prohibited. If I ask you how your code works or why your answers are correct and you do not know, it will be evident that you have copied it. Don’t take the risk. Homework . The HW, will be released once a week. The main content is the design of algorithms for certain problems and the corresponding algorithm analysis. Please submit the solution via the email qzyang@shnu.edu.cn. Please note that late submissions will incur a 25% penalty. Program Assignments . The PA will also be released once a week. We will use the problem on Leet Code. Please submit the solution via the email qzyang@shnu.edu.cn. Here is a sample submission sample. After each program assignment, the instructor will randomly select one student to present their solutions to the class. Please note that late submissions will incur a 25% penalty. Final Exam . This course will have only one exam, the final exam. The more information will be decided later. Bonus Points . TBA. Grades . Students’ gradesGrade will be determined by the following components: . | HomeworkHW, | Program AssignmentsPA , | Final ExamExam, | Bonus PointsBonus. | . The final grade will be calculated using the following equation: Grade = MIN{25%* HW + 15%* PA+ 60%* Exam +5%* Bonus ,100} . ",
     "url": "http://localhost:4000/syllabus/#policies",
     "relUrl": "/syllabus/#policies"
-  },"36": {
+  },"38": {
     "doc": "Syllabus",
     "title": "Resources",
     "content": "This course website, Algorithms, will be your one-stop resource for the syllabus, schedule and homework links. LeetCode . Leet Code is an online platform that offers a wide array of coding challenges and problems, primarily focused on helping individuals improve their programming and problem-solving skills. We will use the website to complete our program assignments. Reference . Here’re some recommended books： . | [1] M.H. Alsuwaiyel. Algorithms: design techniques and analysis. | [2] S. Dasgupta, C. H. Papadimitriou, U. V. Vazirani. Algorithms | [3] T. Cormen, C. Leiserson, R. Rivest, and C. Stein. Introduction to Algorithms | [4] R. Sedgewick, K. Wayne. Algorithms | [5] Jeff Erickson. Algorithms | [6] 王晓东。 计算机算法设计与分析 | [7] 屈婉玲，刘田，张立昂，王捍贫。算法设计与分析 | . ",
