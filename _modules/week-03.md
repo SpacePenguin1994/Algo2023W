@@ -4,7 +4,6 @@ title: Week 3
 
 Sep 25
 : **Divide and Conquer(II)**
-
 :  **HW**{: .label .label-red }Released: [Homework #3](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw3.pdf)  
 : **PA**{: .label .label-blue } Released: [LeetCode](https://leetcode.cn/problems/median-of-two-sorted-arrays/) #4 寻找两个正序数组的中位数.
 : **DUE**{: .label .label-yellow} Both **HW**{: .label .label-red } and  **PA**{: .label .label-blue } will be due at 11:59 p.m. on Oct 8.
