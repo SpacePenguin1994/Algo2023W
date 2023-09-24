@@ -10,7 +10,7 @@ Sep 18
 : **DUE**{: .label .label-yellow} Both **HW**{: .label .label-red } and  **PA**{: .label .label-blue } will be due at 11:59 p.m. on Sep 25.
 
 Sep 22
-: **Divide and Conquer**
+: **Divide and Conquer(I)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/AlgoLec3-handout-zh.pdf)\]
 
   
