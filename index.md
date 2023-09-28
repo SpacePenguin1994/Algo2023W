@@ -36,6 +36,15 @@ See the [Syllabus page](syllabus.md) for more details on course policies.
 
  For more details about the class, see the [Schedule page](schedule.md).
 
+
+## Course Feedback
+
+We have set up a course questionnaire:
+- [《算法设计与分析》课程调查问卷](https://www.wjx.cn/vm/eDmAYfp.aspx#)
+
+Everyone is welcome to submit his/her questions or suggestions about this course.
+
+
 # Announcements
 
 {% assign announcements = site.announcements | reverse %}
