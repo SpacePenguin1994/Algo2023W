@@ -3,7 +3,7 @@ title: Week 6
 ---
 
 Oct 16
-: **Shortest Path(II)**
+: **Graph Traversal(I)**
 <!-->:  **HW**{: .label .label-red }Released: [HW2](../pdf/homework)  **DUE**{: .label .label-green} Sep 16  00:00
 <-->
 

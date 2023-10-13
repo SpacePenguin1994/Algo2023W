@@ -12,5 +12,5 @@ Oct 4
 : **Solution for hw1 and hw2 released:** \[[Homework #1-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw1sol.pdf)\]\[[Homework #2-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw2sol.pdf)\]
 
 Oct 8
-: **Fast Fourier Transform for Polynomial Multiplication**
+: **Fast Fourier Transform for Polynomial Multiplication(I)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/AlgoLec4-handout-zh.pdf)\]
