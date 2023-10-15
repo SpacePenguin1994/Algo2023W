@@ -3,14 +3,14 @@ title: Week 6
 ---
 
 Oct 16
+**Heap and Disjoint set(II)**
+:  **HW**{: .label .label-red }Released: [Homework #5](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw5.pdf)  
+: **PA**{: .label .label-blue } Released: [LeetCode](https://leetcode.cn/problems/number-of-islands/) #200 岛屿数量.
+: **DUE**{: .label .label-yellow} Both **HW**{: .label .label-red } and  **PA**{: .label .label-blue } will be due at 11:59 p.m. on Oct 23. 
+Oct 23
 : **Graph Traversal(I)**
 <!-->:  **HW**{: .label .label-red }Released: [HW2](../pdf/homework)  **DUE**{: .label .label-green} Sep 16  00:00
 <-->
 
-Oct 20
-: **Greedy Algorithms**
-<!-->:  :  \[[slides-zh](../pdf/slides/0-overview-zh.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
-  **HW**{: .label .label-red }Released: [HW2](../pdf/homework)  **DUE**{: .label .label-green} Sep 16  00:00
-<-->
-  
+
 
