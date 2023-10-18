@@ -11,8 +11,6 @@ Oct 16
 
 Oct 23
 : **Graph Traversal(I)**
-<!-->:  **HW**{: .label .label-red }Released: [HW2](../pdf/homework)  **DUE**{: .label .label-green} Sep 16  00:00
-<-->
-
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/AlgoLec6-handout-zh.pdf)\]
 
 
