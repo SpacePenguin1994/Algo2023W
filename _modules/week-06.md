@@ -10,8 +10,8 @@ Oct 16
 : **DUE**{: .label .label-yellow} Both **HW**{: .label .label-red } and  **PA**{: .label .label-blue } will be due at 11:59 p.m. on Oct 23. 
 
 Oct 18
-：**A Note For Recurrence** 
- :  \[[Recurrence](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/NotesForRecurrence.pdf)\]
+:  **NOTE**{: .label .label-green }**A Note For Recurrence** 
+    : \[[Recurrence](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/NotesForRecurrence.pdf)\]
 
 Oct 23
 : **Graph Traversal(I)**
