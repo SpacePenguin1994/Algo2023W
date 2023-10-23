@@ -7,7 +7,7 @@ Oct 23
 : **Shortest Path(I)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/slides/AlgoLec7-handout-zh.pdf)\]
 :  **HW**{: .label .label-red }Released: [Homework #6](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw6.pdf)  
-: **PA**{: .label .label-blue } Released: [LeetCode](https://leetcode.com/problems/course-schedule-ii/) #210 课程表II.
+: **PA**{: .label .label-blue } Released: [LeetCode](https://leetcode.cn/problems/course-schedule-ii/) #210 课程表II.
 : **DUE**{: .label .label-yellow} Both **HW**{: .label .label-red } and  **PA**{: .label .label-blue } will be due at 11:59 p.m. on Oct 30. 
 
 Oct 27
