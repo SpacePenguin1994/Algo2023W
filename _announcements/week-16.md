@@ -1,5 +1,5 @@
 ---
-title: Week 8 Announcement
+title: Week 10 Announcement
 week: 10
 date: 2023-11-14
 ---
