@@ -4,10 +4,10 @@ title: Week 12
 
 Nov 27
 : **Network Flow(II)**
-<!-->:  :  \[[slides-zh](../pdf/slides/0-overview-zh.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
-  **HW**{: .label .label-red }Released: [HW2](../pdf/homework)  **DUE**{: .label .label-green} Sep 16  00:00
-<-->
-
+:  **HW**{: .label .label-red }Released: [Homework #11](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw11.pdf)  
+: **PA**{: .label .label-blue } Released: [LeetCode](https://leetcode.cn/problems/burst-balloons/) #312 戳气球.
+: **DUE**{: .label .label-yellow} Both **HW**{: .label .label-red } and  **PA**{: .label .label-blue } will be due at 11:59 p.m. on Dec 4. 
+  
 
 
 
