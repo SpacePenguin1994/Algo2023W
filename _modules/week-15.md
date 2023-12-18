@@ -3,10 +3,8 @@ title: Week 15
 ---
 
 Dec 18
-: **Computational Geometry**
-<!-->:  :  \[[slides-zh](../pdf/slides/0-overview-zh.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
-  **HW**{: .label .label-red }Released: [HW2](../pdf/homework)  **DUE**{: .label .label-green} Sep 16  00:00
-<-->
+: **P and NP(III)**
+:  **HW**{: .label .label-red }Released: [Homework #14](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw14.pdf)  
 
   
 
