@@ -6,317 +6,527 @@
     "relUrl": "/announcements/"
   },"1": {
     "doc": "Announcements",
+    "title": "Week 15 Announcement",
+    "content": "Dec 24 &middot; 1 min read Hey everyone, here’re three notifications: . | The solutions for Homework #3 to Homework #8 have been released. For more information, please see the Schedule. The remaining solutions will soon be released. | Kindly mark your calendars with the details for the final exam: . | Date and Time: January 3, 2024, from 10:45 a.m. to 11:15 a.m. | Location: 奉贤3教楼222 | Exam Type: Closed-book exam. | . You also can find the information on the Main page. | Since we will finish the course in the next week, we have set up a new questionnaire for collecting the feedback of this course: . | 《算法设计与分析》完课调查问卷 | . The questionnaire is not mandatory, but I will appreciate it if you can spend a few minutes to fill it out. Thank you! . | . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"2": {
+    "doc": "Announcements",
+    "title": "Week 15 Announcement",
+    "content": "Dec 18 &middot; 0 min read Homework #14 is now available. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"3": {
+    "doc": "Announcements",
+    "title": "Week 14 Announcement",
+    "content": "Dec 16 &middot; 0 min read Hello, everyone! I’d like to ask 施阳 to share her approach to the Program Assignment 12 in class on Monday, December 18th. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"4": {
+    "doc": "Announcements",
+    "title": "Week 14 Announcement",
+    "content": "Dec 11 &middot; 0 min read Homework #13 is now available. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"5": {
+    "doc": "Announcements",
+    "title": "Week 13 Announcement",
+    "content": "Dec 9 &middot; 0 min read Hello, everyone! I’d like to ask 吴兴涛 to share his approach to the Program Assignment 11 in class on Monday, December 11th. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"6": {
+    "doc": "Announcements",
+    "title": "Week 13 Announcement",
+    "content": "Dec 4 &middot; 0 min read Homework #12 and Program Assignment #12 are now available. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"7": {
+    "doc": "Announcements",
+    "title": "Week 12 Announcement",
+    "content": "Dec 1 &middot; 0 min read Hello, everyone! Let us welcome 何婧雯 to share her approach to the Program Assignment 10 together with PA 9 in the next class on Monday, December 4th. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"8": {
+    "doc": "Announcements",
+    "title": "Week 12 Announcement",
+    "content": "Nov 27 &middot; 0 min read Homework #11 and Program Assignment #11 are now available. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"9": {
+    "doc": "Announcements",
+    "title": "Week 11 Announcement",
+    "content": "Nov 25 &middot; 0 min read Hello, everyone! I’d like to ask 何婧雯 to share her approach to the Program Assignment 8 in class. I apologize for the late announcement. Therefore, I have decided to postpone this discussion until next week, specifically on Monday, December 4th, together with the discussion of Program Assignment 10. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"10": {
+    "doc": "Announcements",
+    "title": "Week 11 Announcement",
+    "content": "Nov 20 &middot; 0 min read Homework #10 and Program Assignment #10 are now available. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"11": {
+    "doc": "Announcements",
+    "title": "Week 10 Announcement",
+    "content": "Nov 17 &middot; 0 min read Hello, everyone! I’d like to ask 熊宝明 to share his approach to the Program Assignment 8 in class on Monday, November 20th. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"12": {
+    "doc": "Announcements",
+    "title": "Week 10 Announcement",
+    "content": "Nov 14 &middot; 0 min read Homework #9 and Program Assignment #9 are now available. \\ . Sorry for the late announcement. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"13": {
+    "doc": "Announcements",
+    "title": "Week 9 Announcement",
+    "content": "Nov 6 &middot; 0 min read Hello，guys。 . | Homework #8 and Program Assignment #8 are now available. | Let us welcome 钟鑫 to share his approach to the Program Assignment 7 in class on Monday, Novermber 13th. | . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"14": {
+    "doc": "Announcements",
+    "title": "Week 8 Announcement",
+    "content": "Nov 3 &middot; 0 min read Hello, everyone! I’d like to ask 史金萍 to share her approach to the Program Assignment 6 in class on Monday, November 6th. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"15": {
+    "doc": "Announcements",
+    "title": "Week 8 Announcement",
+    "content": "Oct 30 &middot; 0 min read Homework #7 and Program Assignment #7 are now available. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"16": {
+    "doc": "Announcements",
+    "title": "Week 7 Announcement",
+    "content": "Oct 27 &middot; 0 min read Hello, everyone! I’d like to ask 张英杰 to share his approach to the Program Assignment 5 in class on Monday, October 30th. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"17": {
+    "doc": "Announcements",
+    "title": "Week 7 Announcement",
+    "content": "Oct 23 &middot; 0 min read Homework #6 and Program Assignment #6 are now available. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"18": {
+    "doc": "Announcements",
     "title": "Week 6 Announcement",
     "content": "Oct 18 &middot; 0 min read Hi,Guys. | Let us welcome 宋宇豪 to share his approach to the Program Assignment 4 in class on Monday, October 23th. | I’ve updated a note that provides a simple explanation of recurrence. See more information in Schedule. I hope it proves to be useful for you. | . ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"2": {
+  },"19": {
     "doc": "Announcements",
     "title": "Week 6 Announcement",
     "content": "Oct 15 &middot; 0 min read Homework #5 and Program Assignment #5 are now available. ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"3": {
+  },"20": {
     "doc": "Announcements",
     "title": "Week 5 Announcement",
     "content": "Oct 13 &middot; 0 min read Hello, everyone! I’d like to ask 王恩惠 to share her approach to the Program Assignment 3 in class on Monday, October 16th. ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"4": {
+  },"21": {
     "doc": "Announcements",
     "title": "Week 5 Announcement",
     "content": "Oct 9 &middot; 0 min read Homework #4 and Program Assignment #4 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"5": {
+  },"22": {
     "doc": "Announcements",
     "title": "Week 3 Announcement",
     "content": "Oct 4 &middot; 0 min read Hello, everyone! The solution for Homework #1 and Homework #2 is now released. See more information in Schedule. And I’d like to ask 宋智鑫 to share his approach to the Program Assignment 2 in class on Monday, October 9th. ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"6": {
+  },"23": {
     "doc": "Announcements",
     "title": "Week 3 Announcement",
     "content": "Sep 28 &middot; 0 min read Hi, guys. We have set up a questionaire for the course. And I wish you can actively provide the feedback about this course. See more information in Algorithm. Happy Mid-Autumn Festival and National Day! . ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"7": {
+  },"24": {
     "doc": "Announcements",
     "title": "Week 3 Announcement",
     "content": "Sep 25 &middot; 0 min read Homework #3 and Program Assignment #3 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"8": {
+  },"25": {
     "doc": "Announcements",
     "title": "Week 2 Announcement",
     "content": "Sep 18 &middot; 0 min read Hello, everyone! Please note that starting from next week, our classroom for every Monday has changed. The new classroom is:” 奉贤3教楼308 “. And I’d like to ask 王超 to share his approach to the Program Assignment 1 in class on Monday, September 25th. ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"9": {
+  },"26": {
     "doc": "Announcements",
     "title": "Week 2 Announcement",
     "content": "Sep 18 &middot; 0 min read Homework #2 and Program Assignment #2 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"10": {
+  },"27": {
     "doc": "Announcements",
     "title": "Week 1 Announcement",
     "content": "Sep 10 &middot; 0 min read Homework #1 and Program Assignment #1 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"11": {
+  },"28": {
     "doc": "Announcements",
     "title": "Week 0 Announcement",
     "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! . ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"12": {
+  },"29": {
     "doc": "Home",
     "title": "Algorithms FALL 2023",
     "content": "Course Website for Algorithms at SHNU in FALL 2023 . ",
     "url": "http://localhost:4000/#algorithms-fall-2023",
     "relUrl": "/#algorithms-fall-2023"
-  },"13": {
+  },"30": {
     "doc": "Home",
-    "title": "Week 6 Announcement",
-    "content": "Oct 18 &middot; 0 min read Hi,Guys. | Let us welcome 宋宇豪 to share his approach to the Program Assignment 4 in class on Monday, October 23th. | I’ve updated a note that provides a simple explanation of recurrence. See more information in Schedule. I hope it proves to be useful for you. | . [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
+    "title": "Week 15 Announcement",
+    "content": "Dec 24 &middot; 1 min read Hey everyone, here’re three notifications: . | The solutions for Homework #3 to Homework #8 have been released. For more information, please see the Schedule. The remaining solutions will soon be released. | Kindly mark your calendars with the details for the final exam: . | Date and Time: January 3, 2024, from 10:45 a.m. to 11:15 a.m. | Location: 奉贤3教楼222 | Exam Type: Closed-book exam. | . You also can find the information on the Main page. | Since we will finish the course in the next week, we have set up a new questionnaire for collecting the feedback of this course: . | 《算法设计与分析》完课调查问卷 | . The questionnaire is not mandatory, but I will appreciate it if you can spend a few minutes to fill it out. Thank you! . | . [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"14": {
+  },"31": {
     "doc": "Home",
     "title": "About the Class",
     "content": "Turing Award awardee Knuth once said, “Computer Science is the study of algorithms”. Even though the speed of computers is now so fast that we might even question whether Moore’s Law still holds true, the significance of an efficient algorithm remains essential for us. Therefore, in this course, we aim to present various algorithms for numerous ‘standard’ algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. By the end of the course, students will attain proficiency in applying fundamental algorithm design techniques and will become acquainted with the key theoretical instruments utilized in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study. Enjoy the class! . See the Syllabus page for more details on course policies. ",
     "url": "http://localhost:4000/#about-the-class",
     "relUrl": "/#about-the-class"
-  },"15": {
+  },"32": {
     "doc": "Home",
     "title": "General Information",
     "content": "Instructor: Qizhe Yang, qzyang(at)shnu.edu.cn . Time and Location:   9:45 a.m.- 11:15 a.m.  Every Monday in Week 1-16, 奉贤3教楼308           13:00 p.m.- 14:30 p.m. Every Friday in Week 1-8，  奉贤3教楼312 . For more details about the class, see the Schedule page. ",
     "url": "http://localhost:4000/#general-information",
     "relUrl": "/#general-information"
-  },"16": {
+  },"33": {
+    "doc": "Home",
+    "title": "Final Exam",
+    "content": "The final exam is scheduled for January 3, 2024, from 10:45 a.m. to 11:15 a.m. , and will be held in 奉贤3教楼222 . Please note that it will be a closed-book exam. ",
+    "url": "http://localhost:4000/#final-exam",
+    "relUrl": "/#final-exam"
+  },"34": {
     "doc": "Home",
     "title": "Course Feedback",
-    "content": "We have set up a course questionnaire: . | 《算法设计与分析》课程调查问卷 | . Everyone is welcome to submit his/her questions or suggestions about this course. ",
+    "content": "We have set up a course questionnaire: . | 《算法设计与分析》课程调查问卷 | . Everyone is welcome to submit his/her questions or suggestions about this course. Updated in Dec 24, 2023 . Since we will finish the course in the next week, we have set up a new questionnaire for collecting the feedback of this course: . | 《算法设计与分析》完课调查问卷 | . The questionnaire is not mandatory, but I will appreciate it if you can spend a few minutes to fill it out. Thank you! . ",
     "url": "http://localhost:4000/#course-feedback",
     "relUrl": "/#course-feedback"
-  },"17": {
+  },"35": {
     "doc": "Home",
     "title": "Announcements",
     "content": " ",
     "url": "http://localhost:4000/#announcements",
     "relUrl": "/#announcements"
-  },"18": {
+  },"36": {
+    "doc": "Home",
+    "title": "Week 15 Announcement",
+    "content": "Dec 24 &middot; 1 min read Hey everyone, here’re three notifications: . | The solutions for Homework #3 to Homework #8 have been released. For more information, please see the Schedule. The remaining solutions will soon be released. | Kindly mark your calendars with the details for the final exam: . | Date and Time: January 3, 2024, from 10:45 a.m. to 11:15 a.m. | Location: 奉贤3教楼222 | Exam Type: Closed-book exam. | . You also can find the information on the Main page. | Since we will finish the course in the next week, we have set up a new questionnaire for collecting the feedback of this course: . | 《算法设计与分析》完课调查问卷 | . The questionnaire is not mandatory, but I will appreciate it if you can spend a few minutes to fill it out. Thank you! . | . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"37": {
+    "doc": "Home",
+    "title": "Week 15 Announcement",
+    "content": "Dec 18 &middot; 0 min read Homework #14 is now available. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"38": {
+    "doc": "Home",
+    "title": "Week 14 Announcement",
+    "content": "Dec 16 &middot; 0 min read Hello, everyone! I’d like to ask 施阳 to share her approach to the Program Assignment 12 in class on Monday, December 18th. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"39": {
+    "doc": "Home",
+    "title": "Week 14 Announcement",
+    "content": "Dec 11 &middot; 0 min read Homework #13 is now available. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"40": {
+    "doc": "Home",
+    "title": "Week 13 Announcement",
+    "content": "Dec 9 &middot; 0 min read Hello, everyone! I’d like to ask 吴兴涛 to share his approach to the Program Assignment 11 in class on Monday, December 11th. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"41": {
+    "doc": "Home",
+    "title": "Week 13 Announcement",
+    "content": "Dec 4 &middot; 0 min read Homework #12 and Program Assignment #12 are now available. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"42": {
+    "doc": "Home",
+    "title": "Week 12 Announcement",
+    "content": "Dec 1 &middot; 0 min read Hello, everyone! Let us welcome 何婧雯 to share her approach to the Program Assignment 10 together with PA 9 in the next class on Monday, December 4th. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"43": {
+    "doc": "Home",
+    "title": "Week 12 Announcement",
+    "content": "Nov 27 &middot; 0 min read Homework #11 and Program Assignment #11 are now available. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"44": {
+    "doc": "Home",
+    "title": "Week 11 Announcement",
+    "content": "Nov 25 &middot; 0 min read Hello, everyone! I’d like to ask 何婧雯 to share her approach to the Program Assignment 8 in class. I apologize for the late announcement. Therefore, I have decided to postpone this discussion until next week, specifically on Monday, December 4th, together with the discussion of Program Assignment 10. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"45": {
+    "doc": "Home",
+    "title": "Week 11 Announcement",
+    "content": "Nov 20 &middot; 0 min read Homework #10 and Program Assignment #10 are now available. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"46": {
+    "doc": "Home",
+    "title": "Week 10 Announcement",
+    "content": "Nov 17 &middot; 0 min read Hello, everyone! I’d like to ask 熊宝明 to share his approach to the Program Assignment 8 in class on Monday, November 20th. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"47": {
+    "doc": "Home",
+    "title": "Week 10 Announcement",
+    "content": "Nov 14 &middot; 0 min read Homework #9 and Program Assignment #9 are now available. \\ . Sorry for the late announcement. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"48": {
+    "doc": "Home",
+    "title": "Week 9 Announcement",
+    "content": "Nov 6 &middot; 0 min read Hello，guys。 . | Homework #8 and Program Assignment #8 are now available. | Let us welcome 钟鑫 to share his approach to the Program Assignment 7 in class on Monday, Novermber 13th. | . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"49": {
+    "doc": "Home",
+    "title": "Week 8 Announcement",
+    "content": "Nov 3 &middot; 0 min read Hello, everyone! I’d like to ask 史金萍 to share her approach to the Program Assignment 6 in class on Monday, November 6th. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"50": {
+    "doc": "Home",
+    "title": "Week 8 Announcement",
+    "content": "Oct 30 &middot; 0 min read Homework #7 and Program Assignment #7 are now available. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"51": {
+    "doc": "Home",
+    "title": "Week 7 Announcement",
+    "content": "Oct 27 &middot; 0 min read Hello, everyone! I’d like to ask 张英杰 to share his approach to the Program Assignment 5 in class on Monday, October 30th. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"52": {
+    "doc": "Home",
+    "title": "Week 7 Announcement",
+    "content": "Oct 23 &middot; 0 min read Homework #6 and Program Assignment #6 are now available. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"53": {
     "doc": "Home",
     "title": "Week 6 Announcement",
     "content": "Oct 18 &middot; 0 min read Hi,Guys. | Let us welcome 宋宇豪 to share his approach to the Program Assignment 4 in class on Monday, October 23th. | I’ve updated a note that provides a simple explanation of recurrence. See more information in Schedule. I hope it proves to be useful for you. | . ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"19": {
+  },"54": {
     "doc": "Home",
     "title": "Week 6 Announcement",
     "content": "Oct 15 &middot; 0 min read Homework #5 and Program Assignment #5 are now available. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"20": {
+  },"55": {
     "doc": "Home",
     "title": "Week 5 Announcement",
     "content": "Oct 13 &middot; 0 min read Hello, everyone! I’d like to ask 王恩惠 to share her approach to the Program Assignment 3 in class on Monday, October 16th. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"21": {
+  },"56": {
     "doc": "Home",
     "title": "Week 5 Announcement",
     "content": "Oct 9 &middot; 0 min read Homework #4 and Program Assignment #4 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"22": {
+  },"57": {
     "doc": "Home",
     "title": "Week 3 Announcement",
     "content": "Oct 4 &middot; 0 min read Hello, everyone! The solution for Homework #1 and Homework #2 is now released. See more information in Schedule. And I’d like to ask 宋智鑫 to share his approach to the Program Assignment 2 in class on Monday, October 9th. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"23": {
+  },"58": {
     "doc": "Home",
     "title": "Week 3 Announcement",
     "content": "Sep 28 &middot; 0 min read Hi, guys. We have set up a questionaire for the course. And I wish you can actively provide the feedback about this course. See more information in Algorithm. Happy Mid-Autumn Festival and National Day! . ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"24": {
+  },"59": {
     "doc": "Home",
     "title": "Week 3 Announcement",
     "content": "Sep 25 &middot; 0 min read Homework #3 and Program Assignment #3 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"25": {
+  },"60": {
     "doc": "Home",
     "title": "Week 2 Announcement",
     "content": "Sep 18 &middot; 0 min read Hello, everyone! Please note that starting from next week, our classroom for every Monday has changed. The new classroom is:” 奉贤3教楼308 “. And I’d like to ask 王超 to share his approach to the Program Assignment 1 in class on Monday, September 25th. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"26": {
+  },"61": {
     "doc": "Home",
     "title": "Week 2 Announcement",
     "content": "Sep 18 &middot; 0 min read Homework #2 and Program Assignment #2 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"27": {
+  },"62": {
     "doc": "Home",
     "title": "Week 1 Announcement",
     "content": "Sep 10 &middot; 0 min read Homework #1 and Program Assignment #1 are now available. See more information in Schedule. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"28": {
+  },"63": {
     "doc": "Home",
     "title": "Week 0 Announcement",
     "content": "Aug 1 &middot; 0 min read Welcome to the course of Algorithms! . ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"29": {
+  },"64": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"30": {
+  },"65": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": "This schedule outlines all topics of the course and has links to all lecture slides, both in chinese and english. ",
     "url": "http://localhost:4000/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
-  },"31": {
+  },"66": {
     "doc": "Schedule",
     "title": "Week 1",
-    "content": "Sep 11 Overview [slides-zh] Fundamentals(I) [slides-zh] HWReleased: Homework #1 PA Released: LeetCode #1 两数之和，Here’s a submission sample. DUE Both HW and PA will be due at 11:59 p.m. on Sep 18. Sep 15 Fundamentals(II) ",
+    "content": "Sep 11 Overview [slides-zh] Fundamentals(I) [slides-zh] HWReleased: Homework #1 PA Released: LeetCode #1 两数之和，Here’s a submission sample. DUE Both HW and PA will be due at 11:59 p.m. on Sep 18. SolReleased: Homework #1 solution Sep 15 Fundamentals(II) ",
     "url": "http://localhost:4000/schedule/#week-1",
     "relUrl": "/schedule/#week-1"
-  },"32": {
+  },"67": {
     "doc": "Schedule",
     "title": "Week 2",
-    "content": "Sep 18 Induction [slides-zh] HWReleased: Homework #2 PA Released: LeetCode #56 合并区间. DUE Both HW and PA will be due at 11:59 p.m. on Sep 25. Sep 22 Divide and Conquer(I) [slides-zh] ",
+    "content": "Sep 18 Induction [slides-zh] HWReleased: Homework #2 PA Released: LeetCode #56 合并区间. DUE Both HW and PA will be due at 11:59 p.m. on Sep 25. SolReleased: Homework #2 solution Sep 22 Divide and Conquer(I) [slides-zh] ",
     "url": "http://localhost:4000/schedule/#week-2",
     "relUrl": "/schedule/#week-2"
-  },"33": {
+  },"68": {
     "doc": "Schedule",
     "title": "Week 3",
-    "content": "Sep 25 Divide and Conquer(II) HWReleased: Homework #3 PA Released: LeetCode #4 寻找两个正序数组的中位数. DUE Both HW and PA will be due at 11:59 p.m. on Oct 8. Oct 4 Solution for hw1 and hw2 released: [Homework #1-sol][Homework #2-sol] Oct 8 Fast Fourier Transform for Polynomial Multiplication(I) [slides-zh] ",
+    "content": "Sep 25 Divide and Conquer(II) HWReleased: Homework #3 PA Released: LeetCode #4 寻找两个正序数组的中位数. DUE Both HW and PA will be due at 11:59 p.m. on Oct 8. SolReleased: Homework #3 solution Oct 4 Solution for hw1 and hw2 released: [Homework #1-sol][Homework #2-sol] Oct 8 Fast Fourier Transform for Polynomial Multiplication(I) [slides-zh] ",
     "url": "http://localhost:4000/schedule/#week-3",
     "relUrl": "/schedule/#week-3"
-  },"34": {
+  },"69": {
     "doc": "Schedule",
     "title": "Week 4",
     "content": "Happy The National Day Holiday! . ",
     "url": "http://localhost:4000/schedule/#week-4",
     "relUrl": "/schedule/#week-4"
-  },"35": {
+  },"70": {
     "doc": "Schedule",
     "title": "Week 5",
-    "content": "Oct 8 Fast Fourier Transform for Polynomial Multiplication（II） HWReleased: Homework #4 PA Released: LeetCode #179 最大数. DUE Both HW and PA will be due at 11:59 p.m. on Oct 16. Oct 13 Heap and Disjoint set [slides-zh] ",
+    "content": "Oct 8 Fast Fourier Transform for Polynomial Multiplication（II） HWReleased: Homework #4 PA Released: LeetCode #179 最大数. DUE Both HW and PA will be due at 11:59 p.m. on Oct 16. SolReleased: Homework #4 solution Oct 13 Heap and Disjoint set [slides-zh] ",
     "url": "http://localhost:4000/schedule/#week-5",
     "relUrl": "/schedule/#week-5"
-  },"36": {
+  },"71": {
     "doc": "Schedule",
     "title": "Week 6",
-    "content": "Oct 16 Heap and Disjoint set(II) HWReleased: Homework #5 PA Released: LeetCode #200 岛屿数量. DUE Both HW and PA will be due at 11:59 p.m. on Oct 23. Oct 18 NOTEA Note For Recurrence [Recurrence] Oct 23 Graph Traversal(I) [slides-zh] ",
+    "content": "Oct 16 Heap and Disjoint set(II) HWReleased: Homework #5 PA Released: LeetCode #200 岛屿数量. DUE Both HW and PA will be due at 11:59 p.m. on Oct 23. SolReleased: Homework #5 solution Oct 18 NOTEA Note For Recurrence [Recurrence] Oct 23 Graph Traversal(I) [slides-zh] ",
     "url": "http://localhost:4000/schedule/#week-6",
     "relUrl": "/schedule/#week-6"
-  },"37": {
+  },"72": {
     "doc": "Schedule",
     "title": "Week 7",
-    "content": "Oct 23 Dynamic Programming(I) Oct 27 Dynamic Programming(II) ",
+    "content": "Oct 23 Graph Traversal(II) Shortest Path(I) [slides-zh] HWReleased: Homework #6 PA Released: LeetCode #210 课程表II. DUE Both HW and PA will be due at 11:59 p.m. on Oct 30. SolReleased: Homework #6 solution Oct 27 Shortest Path(II) ",
     "url": "http://localhost:4000/schedule/#week-7",
     "relUrl": "/schedule/#week-7"
-  },"38": {
+  },"73": {
     "doc": "Schedule",
     "title": "Week 8",
-    "content": "Oct 30 Network flow(I) Nov 3 Network flow(II) ",
+    "content": "Oct 30 Greedy(I) [slides-zh] HWReleased: Homework #7 PA Released: LeetCode #45 跳跃游戏II. DUE Both HW and PA will be due at 11:59 p.m. on Nov 6. SolReleased: Homework #7 solution Nov 3 Greedy(II) ",
     "url": "http://localhost:4000/schedule/#week-8",
     "relUrl": "/schedule/#week-8"
-  },"39": {
+  },"74": {
     "doc": "Schedule",
     "title": "Week 9",
-    "content": "Nov 6 P and NP(I) ",
+    "content": "Nov 6 Dynamic programming(I) [slides-zh] HWReleased: Homework #8 PA Released: LeetCode #53 最大子数组和. DUE Both HW and PA will be due at 11:59 p.m. on Nov 13. SolReleased: Homework #8 solution ",
     "url": "http://localhost:4000/schedule/#week-9",
     "relUrl": "/schedule/#week-9"
-  },"40": {
+  },"75": {
     "doc": "Schedule",
     "title": "Week 10",
-    "content": "Nov 13 P and NP(II) ",
+    "content": "Nov 13 Dynamic programming(II) HWReleased: Homework #9 . PA Released: LeetCode #198 打家劫舍. DUE Both HW and PA will be due at 11:59 p.m. on Nov 20. ",
     "url": "http://localhost:4000/schedule/#week-10",
     "relUrl": "/schedule/#week-10"
-  },"41": {
+  },"76": {
     "doc": "Schedule",
     "title": "Week 11",
-    "content": "Nov 20 Lower Bounds ",
+    "content": "Nov 20 Network Flow(I) [slides-zh] HWReleased: Homework #10 PA Released: LeetCode #91 解码方法. DUE Both HW and PA will be due at 11:59 p.m. on Nov 27. ",
     "url": "http://localhost:4000/schedule/#week-11",
     "relUrl": "/schedule/#week-11"
-  },"42": {
+  },"77": {
     "doc": "Schedule",
     "title": "Week 12",
-    "content": "Nov 27 Approximation Algorithms ",
+    "content": "Nov 27 Network Flow(II) HWReleased: Homework #11 PA Released: LeetCode #312 戳气球. DUE Both HW and PA will be due at 11:59 p.m. on Dec 4. ",
     "url": "http://localhost:4000/schedule/#week-12",
     "relUrl": "/schedule/#week-12"
-  },"43": {
+  },"78": {
     "doc": "Schedule",
     "title": "Week 13",
-    "content": "Dec 4 Randomized Algorithms(I) ",
+    "content": "Dec 4 P and NP(I) [slides-zh] HWReleased: Homework #12 PA Released: LeetCode #1289 下降路径最小和II. DUE Both HW and PA will be due at 11:59 p.m. on Dec 11. ",
     "url": "http://localhost:4000/schedule/#week-13",
     "relUrl": "/schedule/#week-13"
-  },"44": {
+  },"79": {
     "doc": "Schedule",
     "title": "Week 14",
-    "content": "Dec 11 Randomized Algorithms(II) ",
+    "content": "Dec 11 P and NP(II) HWReleased: Homework #13 DUE HW will be due at 11:59 p.m. on Dec 18. ",
     "url": "http://localhost:4000/schedule/#week-14",
     "relUrl": "/schedule/#week-14"
-  },"45": {
+  },"80": {
     "doc": "Schedule",
     "title": "Week 15",
-    "content": "Dec 18 Computational Geometry ",
+    "content": "Dec 18 P and NP(III) HWReleased: Homework #14 ",
     "url": "http://localhost:4000/schedule/#week-15",
     "relUrl": "/schedule/#week-15"
-  },"46": {
+  },"81": {
     "doc": "Schedule",
     "title": "Week 16",
-    "content": "Dec 25 Review ",
+    "content": "Dec 25 Review [slides-zh] ",
     "url": "http://localhost:4000/schedule/#week-16",
     "relUrl": "/schedule/#week-16"
-  },"47": {
+  },"82": {
     "doc": "Schedule",
     "title": "Week 17&amp;18",
     "content": "Happy The New Year’s Day Holiday and please prepare for the exam week~ . ",
     "url": "http://localhost:4000/schedule/#week-17-18",
     "relUrl": "/schedule/#week-17-18"
-  },"48": {
+  },"83": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"49": {
+  },"84": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "http://localhost:4000/syllabus/",
     "relUrl": "/syllabus/"
-  },"50": {
+  },"85": {
     "doc": "Syllabus",
     "title": "Table of contents",
     "content": ". | Overview | Policies . | Cheating | Homework | Program Assignments | Final Exam | Bonus Points | Grades | . | Resources | . ",
     "url": "http://localhost:4000/syllabus/#table-of-contents",
     "relUrl": "/syllabus/#table-of-contents"
-  },"51": {
+  },"86": {
     "doc": "Syllabus",
     "title": "Overview",
     "content": "In this course, our aim is to present various algorithms for numerous ‘standard’ algorithmic problems. We will illustrate both algorithm design techniques and the methods employed in algorithm analysis. Moreover, since this course is designed for senior undergraduates, we will provide an introduction to notable subfields within algorithmic research, thereby offering potential directions for further study. By the end of the course, students will learn: . | the application of fundamental algorithm design techniques. | the main theoretical tools used in the analysis of algorithms | the ability for desigining algorithms for some algorithmic problems. | the ability for analysing given algorithms. | an outline of the notable subfields within algorithmic research. | . ",
     "url": "http://localhost:4000/syllabus/#overview",
     "relUrl": "/syllabus/#overview"
-  },"52": {
+  },"87": {
     "doc": "Syllabus",
     "title": "Policies",
     "content": "Cheating . You are encouraged to collaborate with your classmates or utilize online resources for any homework, program assignments, or bonus points. Actually, you can also ask for the instructor. However, directly copying and pasting code or answers is prohibited. If I ask you how your code works or why your answers are correct and you do not know, it will be evident that you have copied it. Don’t take the risk. Homework . The HW, will be released once a week. The main content is the design of algorithms for certain problems and the corresponding algorithm analysis. Please submit the solution via the email qzyang@shnu.edu.cn. Please note that late submissions will incur a 25% penalty. Program Assignments . The PA will also be released once a week. We will use the problem on Leet Code. Please submit the solution via the email qzyang@shnu.edu.cn. Here is a sample submission sample. After each program assignment, the instructor will randomly select one student to present their solutions to the class. Please note that late submissions will incur a 25% penalty. Final Exam . This course will have only one exam, the final exam. The more information will be decided later. Bonus Points . TBA. Grades . Students’ gradesGrade will be determined by the following components: . | HomeworkHW, | Program AssignmentsPA , | Final ExamExam, | Bonus PointsBonus. | . The final grade will be calculated using the following equation: Grade = MIN{25%* HW + 15%* PA+ 60%* Exam +5%* Bonus ,100} . ",
     "url": "http://localhost:4000/syllabus/#policies",
     "relUrl": "/syllabus/#policies"
-  },"53": {
+  },"88": {
     "doc": "Syllabus",
     "title": "Resources",
     "content": "This course website, Algorithms, will be your one-stop resource for the syllabus, schedule and homework links. LeetCode . Leet Code is an online platform that offers a wide array of coding challenges and problems, primarily focused on helping individuals improve their programming and problem-solving skills. We will use the website to complete our program assignments. Reference . Here’re some recommended books： . | [1] M.H. Alsuwaiyel. Algorithms: design techniques and analysis. | [2] S. Dasgupta, C. H. Papadimitriou, U. V. Vazirani. Algorithms | [3] T. Cormen, C. Leiserson, R. Rivest, and C. Stein. Introduction to Algorithms | [4] R. Sedgewick, K. Wayne. Algorithms | [5] Jeff Erickson. Algorithms | [6] 王晓东。 计算机算法设计与分析 | [7] 屈婉玲，刘田，张立昂，王捍贫。算法设计与分析 | . ",

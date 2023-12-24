@@ -36,14 +36,26 @@ See the [Syllabus page](syllabus.md) for more details on course policies.
 
  For more details about the class, see the [Schedule page](schedule.md).
 
+## Final Exam
+
+The final exam is scheduled for **January 3, 2024, from 10:45 a.m. to 11:15 a.m.** , and will be held in <font color="#dd0000"> 奉贤3教楼222</font> . Please note that it will be a **closed-book** exam.
+
 
 ## Course Feedback
 
 We have set up a course questionnaire:
+
 - [《算法设计与分析》课程调查问卷](https://www.wjx.cn/vm/eDmAYfp.aspx#)
 
 Everyone is welcome to submit his/her questions or suggestions about this course.
 
+**Updated in Dec 24, 2023**
+
+Since we will finish the course in the next week, we have set up a new questionnaire for collecting the feedback of this course:
+
+- [《算法设计与分析》完课调查问卷](https://www.wjx.cn/vm/YfWr24n.aspx# )
+
+The questionnaire is not mandatory, but I will appreciate it if you can spend a few minutes to fill it out. Thank you!
 
 # Announcements
 
