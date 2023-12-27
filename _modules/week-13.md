@@ -8,6 +8,6 @@ Dec 4
 :  **HW**{: .label .label-red }Released: [Homework #12](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw12.pdf)  
 : **PA**{: .label .label-blue } Released: [LeetCode](https://leetcode.cn/problems/minimum-falling-path-sum-ii/) #1289 下降路径最小和II.
 : **DUE**{: .label .label-yellow} Both **HW**{: .label .label-red } and  **PA**{: .label .label-blue } will be due at 11:59 p.m. on Dec 11. 
-
+: **Sol**{: .label .label-green }Released: [Homework #12 solution](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw12sol.pdf)
   
 

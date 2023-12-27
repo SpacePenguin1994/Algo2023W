@@ -8,5 +8,5 @@ Nov 13
 :  **HW**{: .label .label-red }Released: [Homework #9](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw9.pdf)  
 : **PA**{: .label .label-blue } Released: [LeetCode](https://leetcode.cn/problems/house-robber/) #198 打家劫舍.
 : **DUE**{: .label .label-yellow} Both **HW**{: .label .label-red } and  **PA**{: .label .label-blue } will be due at 11:59 p.m. on Nov 20. 
-  
+  : **Sol**{: .label .label-green }Released: [Homework #9 solution](https://basics.sjtu.edu.cn/~yangqizhe/pdf/algo2023w/homework/Algo-hw9sol.pdf)
 
