@@ -9,7 +9,7 @@ Hey everyone, here're three notifications:
 - The solutions for Homework #3 to Homework #8 have been released. For more information, please see the [Schedule](../schedule). The remaining solutions will soon be released.
   
 - Kindly mark your calendars with the details for the final exam:
-    - Date and Time: January 3, 2024, from 10:45 a.m. to 11:15 a.m.
+    - Date and Time: January 3, 2024, from 10:45 a.m. to 12:15 a.m.
     - Location: 奉贤3教楼222
     - Exam Type: Closed-book exam.
   

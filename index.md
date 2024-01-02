@@ -38,7 +38,7 @@ See the [Syllabus page](syllabus.md) for more details on course policies.
 
 ## Final Exam
 
-The final exam is scheduled for **January 3, 2024, from 10:45 a.m. to 11:15 a.m.** , and will be held in <font color="#dd0000"> 奉贤3教楼222</font> . Please note that it will be a **closed-book** exam.
+The final exam is scheduled for **January 3, 2024, from 10:45 a.m. to 12:15 a.m.** , and will be held in <font color="#dd0000"> 奉贤3教楼222</font> . Please note that it will be a **closed-book** exam.
 
 
 ## Course Feedback
